@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+
+header h1 {
+	font-family: 'Righteous', cursive;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
